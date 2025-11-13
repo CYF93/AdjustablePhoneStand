@@ -14,3 +14,7 @@ Other components:\
 6.) 25mm M3 screw X6\
 7.) M3 nut X6
 
+Other information:
+1.) The M6 "blind hole" knob is to be screwed all the way into the stud such that they are fixed together. This knob is for controlling the angle of the phone. \
+2.) It is recommended to stick rubber strips to the bottom of the base for added friction and stability. Example:  https://shopee.sg/product/175099429/23584025121?gads_t_sig=VTJGc2RHVmtYMTlxTFVSVVRrdENkY0N5akVpcE5OamJEdjRRTHBOTzhmblE1R3hnL0pJMTh2aEpGYWhzdVNWdVgrajgreEpFNTByUEZ6S1dFdCs4UDh3MGM1V1pJQlRsYnlKS3hRV1liUmVvc0JrRmM4MWxLSGhqbXIrYW9nSVM&gad_source=1&gad_campaignid=1690731353&gbraid=0AAAAADPpRQTZC9nQi_Z2oA8kvVSXbhnzb&gclid=CjwKCAiA_dDIBhB6EiwAvzc1cLXv454NzX48lYpxpTfoGLjakE3SF5yTSV61pPhxfUs_CeSF7bp5hxoCcJkQAvD_BwE \
+
