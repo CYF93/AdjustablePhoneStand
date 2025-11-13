@@ -10,5 +10,7 @@ Other components:\
 2.) M6 nut X2\
 3.) 140mm M6 stud X1\
 4.) M6 "blind hole" knob X1, example: https://shopee.com.my/Rubber-Head-Nut-Hexagon-Torx-Nut-Star-Knob-Nut-Hand-Screw-Copper-Core-Plastic-Bolt-Cap-M3-to-M12-i.432361525.24020808638 \
-5.) M6 "through hole" knob X1, example: https://shopee.com.my/Rubber-Head-Nut-Hexagon-Torx-Nut-Star-Knob-Nut-Hand-Screw-Copper-Core-Plastic-Bolt-Cap-M3-to-M12-i.432361525.24020808638
+5.) M6 "through hole" knob X1, example: https://shopee.com.my/Rubber-Head-Nut-Hexagon-Torx-Nut-Star-Knob-Nut-Hand-Screw-Copper-Core-Plastic-Bolt-Cap-M3-to-M12-i.432361525.24020808638 \
+6.) 25mm M3 screw X6\
+7.) M3 nut X6
 
